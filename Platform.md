@@ -4,4 +4,6 @@
 + NVIDIA Developer Kit 
    + https://developer.nvidia.com/drive/drive-hyperion
    + https://developer.nvidia.com/drive/drive-hyperion
-+ A webpage AR drone simulator on github: https://github.com/shama/voxel-drone
++ Drone simulators on github
+   + https://github.com/shama/voxel-drone
+   + https://github.com/feross/oculus-drone
