@@ -5,9 +5,7 @@
 #### What autonomous is.
 - Autonomous Definition
 
-- Autonomous applied in different fields.
+- Why virtual autonomous simulators so important
 
-- Why autonomous simulators so important
-
-#### The basic concept and factor in a real world for antonomous
+#### Some projects or virtaul autonomous platforms for developers and beginners to learn and understand autonomous devices.
 
