@@ -36,3 +36,6 @@
 ##### Unmanned underwater vehicle simulator
    + Website: https://uuvsimulator.github.io/packages/uuv_simulator/intro/
    + Github repo: https://github.com/uuvsimulator/uuv_simulator
+##### Dynamic multi-robot simulator
+   + Installation guide: http://gazebosim.org/install
+   + Github repo: https://github.com/osrf/gazebo
