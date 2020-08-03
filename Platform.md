@@ -10,6 +10,7 @@
    + https://github.com/puku0x/cvdrone
    + https://github.com/felixge/node-ar-drone
    + https://github.com/qweasdcocoj/Autonomous_Vehicles
+   + https://github.com/edward0im/V-Rep-Autonomous-Vehicle-Simulator
 ##### The Drive：https://www.thedrive.com/article/15809/dronebase-app-will-get-aircraft-ar-platform-allowing-users-to-build-virtual-structures
 ##### CARLA open source simulator:
    + Website: https://carla.org/
@@ -27,5 +28,7 @@
 ##### Dash self—driving car simulator
    + Website: https://mattbradley.github.io/dash/
    + Github repo: https://mattbradley.github.io/dash/
-##### 
-##### 
+##### One webiste lists the dorone simulator: https://uavcoach.com/drone-flight-simulator/#guide-2
+##### Dji flight simulator
+   + Website: https://www.dji.com/simulator?from=dap_unique&pbc=IN4xQqec&pm=custom&vid=38961
+   + Downloads: https://www.dji.com/simulator/info#downloads
