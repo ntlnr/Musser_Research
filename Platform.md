@@ -19,9 +19,13 @@
    + Website: https://www.lgsvlsimulator.com/
    + Github repo: https://github.com/lgsvl/simulator
 ##### Openxc Platform
-   + http://openxcplatform.com/projects/simulator.html
+   + Website: http://openxcplatform.com/projects/simulator.html
    + Github repo: https://github.com/openxc/openxc-vehicle-simulator
-##### 
-##### 
+##### MircroSoft Airsim Simulator
+   + Website: https://www.microsoft.com/en-us/research/project/aerial-informatics-robotics-platform/
+   + Github repo: https://github.com/microsoft/AirSim
+##### Dash self—driving car simulator
+   + Website: https://mattbradley.github.io/dash/
+   + Github repo: https://mattbradley.github.io/dash/
 ##### 
 ##### 
