@@ -4,13 +4,14 @@
 ##### NVIDIA Developer Kit 
    + https://developer.nvidia.com/drive/drive-hyperion
    + https://developer.nvidia.com/drive/downloads
-##### Drone simulators on github
+##### Autonomous simulators on github
    + https://github.com/shama/voxel-drone
    + https://github.com/feross/oculus-drone
    + https://github.com/puku0x/cvdrone
    + https://github.com/felixge/node-ar-drone
    + https://github.com/qweasdcocoj/Autonomous_Vehicles
    + https://github.com/edward0im/V-Rep-Autonomous-Vehicle-Simulator
+   + https://github.com/cyberbotics/webots
 ##### The Drive：https://www.thedrive.com/article/15809/dronebase-app-will-get-aircraft-ar-platform-allowing-users-to-build-virtual-structures
 ##### CARLA open source simulator:
    + Website: https://carla.org/
