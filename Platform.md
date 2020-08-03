@@ -16,7 +16,7 @@
    + Github repo: https://github.com/carla-simulator/carla
 ##### RT-LAB: https://www.opal-rt.com/software-rt-lab/
 ##### LGSVL Simulator
-   + https://www.lgsvlsimulator.com/
+   + Website: https://www.lgsvlsimulator.com/
    + Github repo: https://github.com/lgsvl/simulator
 #####
 #####
