@@ -7,6 +7,7 @@
    + https://github.com/shama/voxel-drone
    + https://github.com/feross/oculus-drone
    + https://github.com/puku0x/cvdrone
+   + https://github.com/abhijitmajumdar/Quadcopter_simulator
    + https://github.com/felixge/node-ar-drone
    + https://github.com/qweasdcocoj/Autonomous_Vehicles
    + https://github.com/edward0im/V-Rep-Autonomous-Vehicle-Simulator
