@@ -18,5 +18,10 @@
 ##### LGSVL Simulator
    + Website: https://www.lgsvlsimulator.com/
    + Github repo: https://github.com/lgsvl/simulator
-#####
-#####
+##### Openxc Platform
+   + http://openxcplatform.com/projects/simulator.html
+   + Github repo: https://github.com/openxc/openxc-vehicle-simulator
+##### 
+##### 
+##### 
+##### 
