@@ -28,7 +28,7 @@
 ##### Dash self—driving car simulator
    + Website: https://mattbradley.github.io/dash/
    + Github repo: https://mattbradley.github.io/dash/
-##### One webiste lists the dorone simulator: https://uavcoach.com/drone-flight-simulator/#guide-2
+##### One webiste lists the flight simulator: https://uavcoach.com/drone-flight-simulator/#guide-2
 ##### Dji flight simulator
    + Website: https://www.dji.com/simulator?from=dap_unique&pbc=IN4xQqec&pm=custom&vid=38961
    + Downloads: https://www.dji.com/simulator/info#downloads
