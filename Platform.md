@@ -13,8 +13,10 @@
 ##### The Drive：https://www.thedrive.com/article/15809/dronebase-app-will-get-aircraft-ar-platform-allowing-users-to-build-virtual-structures
 ##### CARLA open source simulator:
    + Website: https://carla.org/
-   + Github project: https://github.com/carla-simulator/carla
+   + Github repo: https://github.com/carla-simulator/carla
 ##### RT-LAB: https://www.opal-rt.com/software-rt-lab/
-#####
+##### LGSVL Simulator
+   + https://www.lgsvlsimulator.com/
+   + Github repo: https://github.com/lgsvl/simulator
 #####
 #####
