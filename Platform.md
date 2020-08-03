@@ -11,7 +11,6 @@
    + https://github.com/qweasdcocoj/Autonomous_Vehicles
    + https://github.com/edward0im/V-Rep-Autonomous-Vehicle-Simulator
    + https://github.com/cyberbotics/webots
-##### The Drive：https://www.thedrive.com/article/15809/dronebase-app-will-get-aircraft-ar-platform-allowing-users-to-build-virtual-structures
 ##### CARLA open source simulator:
    + Website: https://carla.org/
    + Github repo: https://github.com/carla-simulator/carla
