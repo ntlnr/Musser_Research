@@ -33,3 +33,6 @@
 ##### Dji flight simulator
    + Website: https://www.dji.com/simulator?from=dap_unique&pbc=IN4xQqec&pm=custom&vid=38961
    + Downloads: https://www.dji.com/simulator/info#downloads
+##### Unmanned underwater vehicle simulator
+   + Website: https://uuvsimulator.github.io/packages/uuv_simulator/intro/
+   + Github repo: https://github.com/uuvsimulator/uuv_simulator
